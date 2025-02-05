@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "testng-1.0.dtd">
+<suite name="GoogleSearchSuite">
+    <test name="GoogleSearchTests">
+        <classes>
+            <!-- Update the class name to your actual runner class path -->
+            <class name="runners.TestRunner" />
+        </classes>
+    </test>
+</suite>
